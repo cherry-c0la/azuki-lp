@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/azuki-lp/static/css/main.535d9333.css",
+    "main.css": "/azuki-lp/static/css/main.22edaa02.css",
     "main.js": "/azuki-lp/static/js/main.1b8bf591.js",
     "static/js/453.710c28fd.chunk.js": "/azuki-lp/static/js/453.710c28fd.chunk.js",
     "index.html": "/azuki-lp/index.html",
-    "main.535d9333.css.map": "/azuki-lp/static/css/main.535d9333.css.map",
+    "main.22edaa02.css.map": "/azuki-lp/static/css/main.22edaa02.css.map",
     "main.1b8bf591.js.map": "/azuki-lp/static/js/main.1b8bf591.js.map",
     "453.710c28fd.chunk.js.map": "/azuki-lp/static/js/453.710c28fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.535d9333.css",
+    "static/css/main.22edaa02.css",
     "static/js/main.1b8bf591.js"
   ]
 }

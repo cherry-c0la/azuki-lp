@@ -215,7 +215,8 @@ h2 {
     font-size: 2em;
   }
   .hero h2 {
-    font-size: 1.8em; /* スマートフォン表示向けに調整 */
+    font-size: 1.5em; /* スマートフォン表示向けに調整 */
+    word-break: keep-all;
   }
   .hero .subtitle {
     font-size: 1.3em;
